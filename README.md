@@ -1,4 +1,10 @@
-# Smartwatch for Healthcare Monitoring
+# My Project
+This is my first GitHub project.
+
+## Features
+- Simple project
+- Learning GitHub
+- # Smartwatch for Healthcare Monitoring
 
 This project is an IoT-based smartwatch designed to monitor health parameters such as heart rate in real-time. It helps elderly people and heart patients by providing continuous health tracking and alerts.
 
